@@ -1,0 +1,11 @@
+JAVA 
+
+Object
+Oriented 
+Programming
+
+자바에서는
+소문자는 비객체형  (primitive type)
+대문자는 객체형      (wrapper class)
+
+
